@@ -7,10 +7,6 @@
 - Methodology
 - Results
 - Conclusion
-- Installation
-- Usage
-- License
-- Acknowledgments
 
 ## Introduction
 This project involves customer segmentation analysis based on the Mall_Customers dataset. 
