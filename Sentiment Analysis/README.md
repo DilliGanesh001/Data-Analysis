@@ -7,10 +7,6 @@
 - Methodology
 - Results
 - Conclusion
-- Installation
-- Usage
-- License
-- Acknowledgments
 
 ## Introduction
 This project involves sentiment analysis using the **mood_data.txt** dataset. The goal is to analyze sentiments expressed in textual data and classify them into positive, negative, or neutral sentiments, providing insights into overall sentiment trends.
